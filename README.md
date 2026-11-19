@@ -17,7 +17,7 @@
 ## Structure
 
 ```text
-├── sfeclc.py    # Core implementation of SFECLC
+├── SFEC-DETR    # Core implementation of SFEC-DETR
 └── README.md
 ```
 
